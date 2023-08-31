@@ -1,6 +1,7 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: " \"Engineering Innovations: Crafting Tomorrow's World Today - A
+  Mechanical Engineer's Odyssey\""
 image: /img/home-jumbotron.jpg
 heading: " \"Engineering Innovations: Crafting Tomorrow's World Today - A
   Mechanical Engineer's Odyssey\""
