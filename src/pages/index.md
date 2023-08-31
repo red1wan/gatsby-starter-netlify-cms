@@ -1,12 +1,10 @@
 ---
 templateKey: index-page
-title: " \"Engineering Innovations: Crafting Tomorrow's World Today - A
-  Mechanical Engineer's Odyssey\""
-image: /img/home-jumbotron.jpg
+title: " \"Crafting Tomorrow's World Today\""
+image: /img/img-20210320-wa0003.jpg
 heading: " \"Engineering Innovations: Crafting Tomorrow's World Today - A
   Mechanical Engineer's Odyssey\""
-subheading: '"Precision, Passion, Progress: Unveiling the Artistry of Mechanical
-  Engineering"'
+subheading: '"Precision, Passion, Progress'
 mainpitch:
   title: Why Kaldi
   description: >
